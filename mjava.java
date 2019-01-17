@@ -30,6 +30,13 @@ public class JavaExample {
 	    case '-':
             	output = num1 - num2;
                 break;
+	    case '*':
+            	output = num1 * num2;
+                break;
+
+            case '/':
+            	output = num1 / num2;
+                break;
 
             default:
                 System.out.printf("You have entered wrong operator");
