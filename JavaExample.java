@@ -12,7 +12,8 @@ public class JavaExample {
          * can enter integer as well as floating point
          * value
          */
-        num1 = scanner.nextDouble();
+
+        num1 = scanner.nextDouble() ballo
         System.out.print("Enter second number:");
         num2 = scanner.nextDouble();
 
