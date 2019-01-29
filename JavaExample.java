@@ -13,7 +13,7 @@ public class JavaExample {
          * value
          */
 
-        num1 = scanner.nextDouble() ballo
+        num1 = scanner.nextDouble();
         System.out.print("Enter second number:");
         num2 = scanner.nextDouble();
 
