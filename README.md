@@ -1,1 +1,1 @@
-Calculator - A simple java application
+Calculator-A simple java application
